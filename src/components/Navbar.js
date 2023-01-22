@@ -5,7 +5,7 @@ const Navbar = () => {
     return (
       <>
         <div className="from- bg-gradient-to-r from-indigo-400 to-sky-100 sticky top-0 z-50 space-x-2 p-1">
-          <TopbarLink link="/homepage/" text="Etusivu"/>        
+          <TopbarLink link="/homepage" text="Etusivu"/>        
           <TopbarLink link="https://github.com/Lounley" text="Github"/>    
           <TopbarLink link="https://www.linkedin.com/in/juho-suomela-1b698b194/" text="Linkedin"/>   
           <TopbarLink link="/homepage/projects" text="Projects"/>           
