@@ -8,10 +8,10 @@ const Navbar = () => {
           <TopbarLink link="/" text="Etusivu"/>        
           <TopbarLink link="https://github.com/Lounley" text="Github"/>    
           <TopbarLink link="https://www.linkedin.com/in/juho-suomela-1b698b194/" text="Linkedin"/>   
-          <TopbarLink link="/projects" text="Projects"/>           
+          <TopbarLink link="homepage/projects" text="Projects"/>           
           <TopbarLink link="https://www.instagram.com/juhd0/" text="Instagram"/> 
           <TopbarLink link="https://www.youtube.com/@vaasanlaskuvarjokerho1110" text="Skydive"/>
-          <TopbarLink link="/about" text="About me"/>
+          <TopbarLink link="homepage/about" text="About me"/>
 
         </div>
       </>
