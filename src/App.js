@@ -12,8 +12,8 @@ const App = () => {
       <HashRouter> 
         <Routes>
           <Route path='/' element={<Frontpage />} />
-          <Route path='/homepage/about' element={<About />} />
-          <Route path='/homepage/projects' element={<Projects />} />
+          <Route path='/about' element={<About />} />
+          <Route path='/projects' element={<Projects />} />
         </Routes>
       </HashRouter> 
     </div>
