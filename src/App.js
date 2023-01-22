@@ -11,9 +11,9 @@ const App = () => {
       <Navbar />
       <HashRouter> 
         <Routes>
-          <Route path='/' element={<Frontpage />} />
-          <Route path='/about' element={<About />} />
-          <Route path='/projects' element={<Projects />} />
+          <Route exact path='/' element={<Frontpage />} > </Route>
+          <Route path='/about' element={<About />} > </Route>
+          <Route path='/projects' element={<Projects />} > </Route>
         </Routes>
       </HashRouter> 
     </div>
