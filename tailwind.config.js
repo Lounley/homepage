@@ -5,7 +5,7 @@ module.exports = {
     extend: {
       backgroundImage: {
         'plane': "url('../public/img/planebg.jpg')",
-        'me': "url('../public/img/me.jpg')",
+        'omakuva': "url('../public/img/me.PNG')",
       },
       margin: {
         '250': '250px',

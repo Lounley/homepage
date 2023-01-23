@@ -1,8 +1,7 @@
 const About = () => {
   return (
     <div className="mt-6 flex flex-wrap">
-      <div className="m-6 mt-0 mr-0 rounded-lg pt-6 px-6 pb-5 bg-gray-200 w-172">
-        <img className="rounded-lg" src="/img/me.jpg" alt="me" width="170" height="406"/> 
+      <div className="m-6 mt-0 mr-0 rounded-lg pt-6 px-6 pb-5 bg-right-top bg-omakuva w-172 bg-[top_center]">
       </div>  
 
       <div className="m-6 mt-0 text-4xl bg-gray-200 rounded-lg p-6 w-1585">
